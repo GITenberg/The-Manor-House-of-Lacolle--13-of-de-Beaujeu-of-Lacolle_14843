@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5584
     wikipedia: http://en.wikipedia.org/wiki/William_Douw_Lighthall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14843#The-Manor-House-of-Lacolle--13-of-de-Beaujeu-of-Lacolle
 gutenberg_issued: '2005-01-31'
 gutenberg_type: Text
 identifiers:
